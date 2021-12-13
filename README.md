@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 #### Contacts ✉️
 [![Blog Badge](https://img.shields.io/badge/-Blog-white?style=flat&logo=naver)](https://blog.naver.com/yjh7827)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram)](https://www.m.instagram.com/jiho__129/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram)](https://www.instagram.com/jiho__129/)
