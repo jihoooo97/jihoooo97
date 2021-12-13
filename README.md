@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jihoooo97/jihoooo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoooo97&layout=compact)](https://github.com/jihoooo97/github-readme-stats)
+
+
+[![Swift Badge](https://img.shields.io/badge/-Swift-white?style=flat&logo=Swift&logoColor=F05138&link=https://github/jihoooo97/Swift)](https://github/jihoooo97/Swift)
+
+
+![Last Commit](https://img.shields.io/badge/github/last-commit/jihoooo97/Swift/?style=plastic&logo=swift)
+
+
+[![Blog Badge](https://img.shields.io/badge/-Blog-white?style=flat&logo=naver&link=https://blog.naver.com/yjh7827)](https://blog.naver.com/yjh7827)
