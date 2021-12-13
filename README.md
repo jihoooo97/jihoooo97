@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Swift Badge](https://img.shields.io/badge/-Swift-white?style=flat&logo=Swift&logoColor=F05138&link=https://github.com/jihoooo97/Swift)](https://github.com/jihoooo97/Swift)
 
 
-![Last Commit](https://img.shields.io/github/last-commit/jihoooo97/Swift?style=flat&labelColor=white&logo=Swift&logoColor=F05138&link=https://github.com/jihoooo97/Swift)
-![Last Commit](https://img.shields.io/github/last-commit/jihoooo97/Algorithm?style=flat&labelColor=white&logo=Java&logoColor=007396&link=https://github.com/jihoooo97/Algorithm)
+[![Last Commit](https://img.shields.io/github/last-commit/jihoooo97/Swift?style=flat&labelColor=white&logo=Swift&logoColor=F05138)](https://github.com/jihoooo97/Swift)
+[![Last Commit](https://img.shields.io/github/last-commit/jihoooo97/Algorithm?style=flat&labelColor=white&logo=Java&logoColor=007396)](https://github.com/jihoooo97/Algorithm)
 
-[![Blog Badge](https://img.shields.io/badge/-Blog-white?style=flat&logo=naver&link=https://blog.naver.com/yjh7827)](https://blog.naver.com/yjh7827)
+[![Blog Badge](https://img.shields.io/badge/-Blog-white?style=flat&logo=naver)](https://blog.naver.com/yjh7827)
