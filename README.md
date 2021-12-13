@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Swift Badge](https://img.shields.io/badge/-Swift-white?style=flat&logo=Swift&logoColor=F05138&link=https://github/jihoooo97/Swift)](https://github/jihoooo97/Swift)
 
 
-![Last Commit](https://img.shields.io/badge/github/last-commit/jihoooo97/Swift/?style=plastic&logo=swift)
-
+![Last Commit](https://img.shields.io/github/last-commit/jihoooo97/Swift?style=flat&labelColor=white&logo=Swift)
+![Last Commit](https://img.shields.io/github/last-commit/jihoooo97/Algorithm?style=flat&labelColor=white&logo=Java&logoColor=007396)
 
 [![Blog Badge](https://img.shields.io/badge/-Blog-white?style=flat&logo=naver&link=https://blog.naver.com/yjh7827)](https://blog.naver.com/yjh7827)
