@@ -12,14 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+# **Jiho's Github**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoooo97&layout=compact)](https://github.com/jihoooo97/github-readme-stats)
+---
 
 
-[![Swift Badge](https://img.shields.io/badge/-Swift-white?style=flat&logo=Swift&logoColor=F05138&link=https://github.com/jihoooo97/Swift)](https://github.com/jihoooo97/Swift)
+### Tech Stack 💻
+![C Badge](https://img.shields.io/badge/-C-white?style=flat&labelColor=A8B9CC&logo=C&logoColor=white)
+![Java Badge](https://img.shields.io/badge/-Java-white?style=flat&labelColor=007396&logo=Java&logoColor=white)
+[![Swift Badge](https://img.shields.io/badge/-Swift-white?style=flat&labelColor=F05138&logo=Swift&logoColor=white)](https://github.com/jihoooo97/Swift)  
 
-
+### Commit Status 🔥
 [![Last Commit](https://img.shields.io/github/last-commit/jihoooo97/Swift?style=flat&labelColor=white&logo=Swift&logoColor=F05138)](https://github.com/jihoooo97/Swift)
 [![Last Commit](https://img.shields.io/github/last-commit/jihoooo97/Algorithm?style=flat&labelColor=white&logo=Java&logoColor=007396)](https://github.com/jihoooo97/Algorithm)
 
+#### Contacts ✉️
 [![Blog Badge](https://img.shields.io/badge/-Blog-white?style=flat&logo=naver)](https://blog.naver.com/yjh7827)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram)](https://www.m.instagram.com/jiho__129/)
