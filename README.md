@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoooo97&layout=compact)](https://github.com/jihoooo97/github-readme-stats)
 
 
-[![Swift Badge](https://img.shields.io/badge/-Swift-white?style=flat&logo=Swift&logoColor=F05138&link=https://github/jihoooo97/Swift)](https://github/jihoooo97/Swift)
+[![Swift Badge](https://img.shields.io/badge/-Swift-white?style=flat&logo=Swift&logoColor=F05138&link=https://github.com/jihoooo97/Swift)](https://github.com/jihoooo97/Swift)
 
 
 ![Last Commit](https://img.shields.io/github/last-commit/jihoooo97/Swift?style=flat&labelColor=white&logo=Swift&logoColor=F05138)
