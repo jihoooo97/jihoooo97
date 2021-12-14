@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # **Jiho's Github**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoooo97&layout=compact)](https://github.com/jihoooo97/github-readme-stats)
+
 ---
 
 
