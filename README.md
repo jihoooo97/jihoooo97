@@ -4,7 +4,6 @@
 
 
 ### 💻 Tech Stack 
-![C Badge](https://img.shields.io/badge/-C-white?style=flat&labelColor=A8B9CC&logo=C&logoColor=white)
 [![Java Badge](https://img.shields.io/badge/-Java-white?style=flat&labelColor=007396&logo=Java&logoColor=white)](https://github.com/jihoooo97/Algorithm)
 [![Swift Badge](https://img.shields.io/badge/-Swift-white?style=flat&labelColor=F05138&logo=Swift&logoColor=white)](https://github.com/jihoooo97/Swift)  
 
