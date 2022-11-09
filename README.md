@@ -10,6 +10,6 @@
 
 ######  ✉️ Contacts
 [![Blog Badge](https://img.shields.io/badge/-Blog-white?style=flat&logo=naver)](https://blog.naver.com/yjh7827)
-[![Notion Badge](https://img.shields.io/badge/-Notion-white?style=flat&logo=Notion&logoColor=black)]([(https://adventurous-fig-a8f.notion.site/Notion-040b768b9d384131ad4ff87e3b9609a0)])
+[![Notion Badge](https://img.shields.io/badge/-Notion-white?style=flat&logo=Notion&logoColor=black)](https://adventurous-fig-a8f.notion.site/Notion-040b768b9d384131ad4ff87e3b9609a0)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram)](https://www.instagram.com/jiho__129/)  
 ![Gmail Badge](https://img.shields.io/badge/-yjh20927@gmail.com-white?style=flat&logo=Gmail)
