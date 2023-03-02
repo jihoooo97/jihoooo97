@@ -1,4 +1,4 @@
-# iOS Devloper
+# JihoKit
 
 ### email<br/>
 * yjh20927@gmail.com<br/>
