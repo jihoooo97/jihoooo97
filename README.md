@@ -3,5 +3,4 @@
 ![](https://img.shields.io/badge/ios-white?style=for-the-badge&logo=apple&logoColor=black)
 ![](https://img.shields.io/badge/swift-orange?style=for-the-badge&logo=swift&logoColor=white)
 
-[![tistory](https://img.shields.io/badge/tistory-white?style=for-the-badge&logo=tistory&logoColor=black)](https://jihokit.tistory.com)
 [![gmail](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yjh20927@gmail.com)
