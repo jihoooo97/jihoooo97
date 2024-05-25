@@ -2,25 +2,24 @@
 
 
 ### About Me
+- 🍎 studying iOS (2022.01 ~ )
 
 <br>
 
 ### Tech Stack
 <img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1582581609/noticon/cczbpahp5od6voerbvwr.svg"> <img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1592446943/noticon/fx4tfnyku4yyjj5ehyuq.png"> <img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567399456/noticon/ynev3ykd0musp4yh5xs7.png">
 
-<br>
-
 ### Project
-- [ANBD](https://github.com/jihoooo97/ANBD) - 1개월 (2024.04 ~ 2024.05)
-- [fooiy](https://github.com/jihoooo97/fooiy-ios) - 8개월 (2022.04 ~ 2022.12)
-- [Lotty](https://github.com/jihoooo97/Lotty) - 2개월 (2022.01 ~ 2022.03)
-
-<br>
+- 🌱 [ANBD](https://github.com/jihoooo97/ANBD) - 1개월 (2024.04 ~ 2024.05) `앱스토어 출시`
+- 🍽️ [fooiy](https://github.com/jihoooo97/fooiy-ios) - 8개월 (2022.04 ~ 2022.12) `앱스토어 출시`
+- 💸 [Lotty](https://github.com/jihoooo97/Lotty) - 2개월 (2022.02 ~ 2022.03) `앱스토어 출시`
 
 ### Education
 -
 
-<br>
+### Prize
+-
+-
 
 ### Contact
 <a href=""><img width="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png"> 
