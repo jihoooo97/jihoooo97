@@ -12,7 +12,7 @@
 ### Project
 - 🚘 [PParking]() - (2024.05 ~ )
 - 🌱 [ANBD](https://github.com/jihoooo97/ANBD) - 1개월 (2024.04 ~ 2024.05) `앱스토어 출시`
-- 📝 [sss]() - 5개월 (2023.08 ~ 2024.01)
+- 📝 [ShareTodo]() - 5개월 (2023.08 ~ 2024.01)
 - 🍽️ [fooiy](https://github.com/jihoooo97/fooiy-ios) - 8개월 (2022.04 ~ 2022.12) `앱스토어 출시`
 - 💸 [Lotty](https://github.com/jihoooo97/Lotty) - 2개월 (2022.02 ~ 2022.03) `앱스토어 출시`
 - 📖 [wordcheck](https://github.com/wordcheck/wordcheck-ios) - 1개월 (2022.01) `앱스토어 출시`
