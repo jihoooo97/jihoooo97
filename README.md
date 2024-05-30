@@ -2,7 +2,7 @@
 
 
 ### About Me
-- 🍎 studying iOS (2022.01 ~ )
+- 🍎 Studying iOS (2022.01 ~ )
 
 <br>
 
@@ -12,17 +12,19 @@
 ### Project
 - 🚘 [PParking]() - (2024.05 ~ )
 - 🌱 [ANBD](https://github.com/jihoooo97/ANBD) - 2개월 (2024.03 ~ 2024.05) `앱스토어 출시`
-- 📝 [ShareTodo]() - 5개월 (2023.08 ~ 2024.01)
+- 📝 [ShareTodo](https://github.com/jihoooo97/ShareTODO) - 5개월 (2023.08 ~ 2024.01)
 - 🍽️ [fooiy](https://github.com/jihoooo97/fooiy-ios) - 8개월 (2022.04 ~ 2022.12) `앱스토어 출시`
 - 💸 [Lotty](https://github.com/jihoooo97/Lotty) - 2개월 (2022.02 ~ 2022.03) `앱스토어 출시`
 - 📖 [wordcheck](https://github.com/wordcheck/wordcheck-ios) - 1개월 (2022.01) `앱스토어 출시`
 
 ### Education
--
+- 멋쟁이사자차럼 앱스쿨 iOS 4기 (2023.11 ~ 2024.05)
+- 상명대학교 소프트웨어학과 (2016.03 ~ 2023.02)
 
-### Prize
--
--
+### Prize / Certification
+- 멋쟁이사자처럼 앱스쿨 iOS 4기 우수상, 협업상 (2024.05)
+- 상명대학교 소프트웨어 캡스톤디자인 공모전 최우수상 (2022.12)
+- 정보처리기사 (2022.11)
 
 ### Contact
 <a href=""><img width="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png"> 
