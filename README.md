@@ -27,8 +27,8 @@
 - 정보처리기사 (2022.11)
 
 ### Contact
-<a href=""><img width="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png"> 
-<a href="https://jihokit.tistory.com"><img width="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png"> 
+<!-- <a href=""><img width="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png"> 
+<a href="https://jihokit.tistory.com"><img width="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png"> -->
 [<img width="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1606895317/noticon/cffnbxeed08p0l4u44ru.png">](mailto:yjh20927@gmail.com)
 
 <br>
