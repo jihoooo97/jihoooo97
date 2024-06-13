@@ -37,4 +37,4 @@
 <!-- ![](https://img.shields.io/badge/ios-white?style=for-the-badge&logo=apple&logoColor=black) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihoooo97&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={}&bg_color=000000)](https://solved.ac/{}) -->
+ <!-- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=yjh7827&bg_color=000000)](https://solved.ac/yjh7827) -->
