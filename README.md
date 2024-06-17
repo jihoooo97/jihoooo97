@@ -1,7 +1,7 @@
 ## <img width="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567593192/noticon/za5oft8gpi5yabrlvgfp.gif"> Jiho Yoo [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihoooo97%2Fhit-counter&count_bg=%23F1F1F1&title_bg=%234397E9&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### About Me
-- 🍎 studying iOS (2022.01 ~ )
+- studying iOS🍎 (2022.01 ~ )
 - interested in architecture and modularization
 - make an effort to understand the reasons and use it
 
