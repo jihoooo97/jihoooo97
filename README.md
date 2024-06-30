@@ -2,7 +2,7 @@
 
 ### About Me
 - studying iOS🍎 (2022.01 ~ )
-- interested in architecture and modularization
+- interested in architecture and [modularization](https://github.com/jihoooo97/Practice-Tuist)
 - make an effort to understand the reasons and use it
 
 ### Tech Stack
