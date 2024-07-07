@@ -7,6 +7,14 @@
 
 ### Tech Stack
 <img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1582581609/noticon/cczbpahp5od6voerbvwr.svg"> <img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1592446943/noticon/fx4tfnyku4yyjj5ehyuq.png"> <img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567399456/noticon/ynev3ykd0musp4yh5xs7.png">
+| Framework | UIKit, SwiftUI |
+|:-|:-|
+| Architecture | MVC, MVVM, Clean Architecture |
+| Reactive Programming | RxSwift, Combine, Swift Concurrency |
+| Network | URLSession, Alamofire, Moya |
+| DI | Swinject |
+| Modularization | [Tuist](https://github.com/jihoooo97/Practice-Tuist) |
+| Library | Firebase, NaverMap, KakaoSDK, Kingfisher |
 
 ### Project
 - 🚘 [PParking]() - (2024.05 ~ )
