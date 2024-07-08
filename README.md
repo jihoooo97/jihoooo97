@@ -15,6 +15,7 @@
 | DI | Swinject |
 | Modularization | [Tuist](https://github.com/jihoooo97/Practice-Tuist) |
 | Library | Firebase, NaverMap, KakaoSDK, Kingfisher |
+| etc | [Server Driven UI](https://github.com/jihoooo97/Practice_ServerDrivenUI) |
 
 ### Project
 - 🚘 [PParking]() - (2024.05 ~ )
