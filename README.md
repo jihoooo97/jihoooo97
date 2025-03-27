@@ -30,7 +30,7 @@
 
 ## Projects
 <!-- - 🚘 [PParking]() - (2024.05 ~ ) -->
-- 🌱 [ANBD](https://github.com/jihoooo97/ANBD) - 서비스 중 (2024.03 ~ ) `앱스토어 출시`
+- 🌱 [ANBD](https://github.com/jihoooo97/ANBD) - 3개월 (2024.03 ~ 2024.05) `앱스토어 출시`
 - 🍽️ [fooiy](https://github.com/jihoooo97/fooiy-ios) - 8개월 (2022.04 ~ 2022.12) `앱스토어 출시`
 - 💸 [Lotty](https://github.com/jihoooo97/Lotty) - 서비스 중 (2022.02 ~ ) `앱스토어 출시`
 - 📖 [wordcheck](https://github.com/wordcheck/wordcheck-ios) - 1개월 (2022.01) `앱스토어 출시`
