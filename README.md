@@ -33,7 +33,7 @@
 ![](https://img.shields.io/badge/Swift%20Concurrency-D5368E)  
 ![](https://img.shields.io/badge/Firebase-DD2C00.svg?style=flat&logo=firebase&logoColor=white)
 ![](https://img.shields.io/badge/NaverSDK-03C75A.svg?style=flat&logo=naver&logoColor=white)
-![](https://img.shields.io/badge/KakaoSDK-FFCD00.svg?style=flat&logo=kakao&logoColor=white)
+![](https://img.shields.io/badge/KakaoSDK-FFCD00.svg?style=flat&logo=kakao&logoColor=white)  
 [Tuist](https://github.com/jihoooo97/Practice-Tuist), [Server Driven UI](https://github.com/jihoooo97/Practice_ServerDrivenUI), [Widget](https://github.com/jihoooo97/Practice_Widget), [Media](https://github.com/jihoooo97/Practice_AVPlayer)  
 
 <br>
