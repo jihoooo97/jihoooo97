@@ -5,12 +5,26 @@
 
 <br>
 
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=yjh7827&bg_color=000000)](https://solved.ac/yjh7827)</br>
+
+<br>
+
+
+## Projects
+- 👕 [네꾸](https://github.com/jihoooo97/neggu-ios/tree/develop) - 5개월 (2025.05 ~ 2025.07)
+- 🌱 [ANBD](https://github.com/jihoooo97/ANBD) - 3개월 (2024.03 ~ 2024.05) `앱스토어 출시`
+- 🍽️ [fooiy](https://github.com/jihoooo97/fooiy-ios) - 8개월 (2022.04 ~ 2022.12) `앱스토어 출시`
+- 💸 [Lotty](https://github.com/jihoooo97/Lotty) - 서비스 중 (2022.02 ~ ) `앱스토어 출시`
+- 📖 [wordcheck](https://github.com/wordcheck/wordcheck-ios) - 1개월 (2022.01) `앱스토어 출시`
+<!-- - 📝 [ShareTodo](https://github.com/jihoooo97/ShareTODO) - 5개월 (2023.08 ~ 2024.01) -->
+
+<br>
+
+
 ## Interested In
 <img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1582581609/noticon/cczbpahp5od6voerbvwr.svg"> <img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1592446943/noticon/fx4tfnyku4yyjj5ehyuq.png"> <img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566919318/noticon/pjnpsszivn2jjfgspqj7.png"> 
+<img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1722496996/noticon/sgco44kgdrtawuwcrtbd.png">
 <!-- <img width="50" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567399456/noticon/ynev3ykd0musp4yh5xs7.png"> -->
-
-
-
 
 ![](https://img.shields.io/badge/UIKit-2396F3.svg?style=flat&logo=uikit&logoColor=white)
 ![](https://img.shields.io/badge/SwiftUI-4255FF.svg?style=flat&logo=swift&logoColor=white)  
@@ -19,22 +33,8 @@
 ![](https://img.shields.io/badge/Swift%20Concurrency-D5368E)  
 ![](https://img.shields.io/badge/Firebase-DD2C00.svg?style=flat&logo=firebase&logoColor=white)
 ![](https://img.shields.io/badge/NaverSDK-03C75A.svg?style=flat&logo=naver&logoColor=white)
-![](https://img.shields.io/badge/KakaoSDK-FFCD00.svg?style=flat&logo=kakao&logoColor=white)  
+![](https://img.shields.io/badge/KakaoSDK-FFCD00.svg?style=flat&logo=kakao&logoColor=white)
 [Tuist](https://github.com/jihoooo97/Practice-Tuist), [Server Driven UI](https://github.com/jihoooo97/Practice_ServerDrivenUI), [Widget](https://github.com/jihoooo97/Practice_Widget), [Media](https://github.com/jihoooo97/Practice_AVPlayer)  
-
-<br>
-
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=yjh7827&bg_color=000000)](https://solved.ac/yjh7827)</br>
-
-<br>
-
-## Projects
-<!-- - 🚘 [PParking]() - (2024.05 ~ ) -->
-- 🌱 [ANBD](https://github.com/jihoooo97/ANBD) - 3개월 (2024.03 ~ 2024.05) `앱스토어 출시`
-- 🍽️ [fooiy](https://github.com/jihoooo97/fooiy-ios) - 8개월 (2022.04 ~ 2022.12) `앱스토어 출시`
-- 💸 [Lotty](https://github.com/jihoooo97/Lotty) - 서비스 중 (2022.02 ~ ) `앱스토어 출시`
-- 📖 [wordcheck](https://github.com/wordcheck/wordcheck-ios) - 1개월 (2022.01) `앱스토어 출시`
-<!-- - 📝 [ShareTodo](https://github.com/jihoooo97/ShareTODO) - 5개월 (2023.08 ~ 2024.01) -->
 
 <br>
 
@@ -50,12 +50,8 @@
 ### Contact
 <!-- <a href=""><img width="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1577931228/noticon/m7laxwx6s1m5thit9ldj.png"> 
 <a href="https://jihokit.tistory.com"><img width="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png"> -->
+[<img width="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1605926847/noticon/ku5wj788ubjwba7pecrw.png">](https://jihokit.tistory.com)
 [<img width="30" src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1606895317/noticon/cffnbxeed08p0l4u44ru.png">](mailto:yjh20927@gmail.com)
-
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihoooo97%2Fhit-counter&count_bg=%23F1F1F1&title_bg=%234397E9&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <br>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoooo97&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
