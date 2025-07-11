@@ -11,7 +11,7 @@
 
 
 ## Projects
-- 👕 [네꾸](https://github.com/jihoooo97/neggu-ios/tree/develop) - 5개월 (2025.05 ~ 2025.07)
+- 👕 [네꾸](https://github.com/jihoooo97/neggu-ios/tree/develop) - 5개월 (2025.02 ~ 2025.07)
 - 🌱 [ANBD](https://github.com/jihoooo97/ANBD) - 3개월 (2024.03 ~ 2024.05) `앱스토어 출시`
 - 🍽️ [fooiy](https://github.com/jihoooo97/fooiy-ios) - 8개월 (2022.04 ~ 2022.12) `앱스토어 출시`
 - 💸 [Lotty](https://github.com/jihoooo97/Lotty) - 서비스 중 (2022.02 ~ ) `앱스토어 출시`
